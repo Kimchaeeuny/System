@@ -33,7 +33,7 @@
 ![image](https://github.com/Kimchaeeuny/System/assets/120534069/b691f33e-b413-401a-9535-927fcdb37686)
 
 ### test7
-![image](https://github.com/Kimchaeeuny/System/assets/120534069/d4dc2164-513a-4995-9ebd-402735d3f723)
+![image](https://github.com/Kimchaeeuny/System/assets/120534069/ce11d3af-36e5-41d7-b299-4006017ddd24)
 
 ### test8
 ![image](https://github.com/Kimchaeeuny/System/assets/120534069/ed52a5e0-c0d5-450a-abb7-4b12ef9300f6)
