@@ -29,3 +29,16 @@
 
 ## 명령줄 인수/환경 변수
 ![image](https://github.com/Kimchaeeuny/System/assets/120534069/0596ed57-eea5-47c5-92e2-2b36579774d0)
+
+## 프로그램 종료
+### 정상 종료(normal termination)
+- main() 실행을 마치고 리턴하면 C 시작 루틴은 이 리턴값을 가지고 exit()을 호출
+- 프로그램 내에서 직접 exit()을 호출
+- 프로그램 내에서 직접 _exit()을 호출
+
+### 비정상 종료(abnormal termination)
+- abort(): 프로세스에 SIGABRT 시그널을 보내어 프로세스를 비정상적으로 종료
+- 시그널에 의한 종료
+
+![image](https://github.com/Kimchaeeuny/System/assets/120534069/35c9dba0-e5a2-48a4-a58c-f53bb2b3b5be)
+![image](https://github.com/Kimchaeeuny/System/assets/120534069/6ed3dab5-d85f-4dab-8b8b-5a1b93953f5d)
