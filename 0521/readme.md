@@ -9,3 +9,23 @@
 
 ![image](https://github.com/Kimchaeeuny/System/assets/120534069/506d3391-fce0-46bd-b654-1766b68e0a1b)
 ![image](https://github.com/Kimchaeeuny/System/assets/120534069/abca8afc-1e6d-4d46-94d8-e40c53cb7b82)
+
+## 프로세스(process)
+- 실행중인 프로그램을 프로세스(process)라고 부른다.
+- 각 프로세스는 유일한 프로세스 번호 PID를 갖는다.
+- ps 명령어를 사용하여 나의 프로세스들을 볼 수 있다.
+
+## 프로그램 실행 시작
+### exec 시스템 호출
+- C 시작 루틴에 명령줄 인수와 환경 변수를 전달
+- 프로그램 실행
+### C 시작 루틴(start-up routine)
+- main 함수를 호출시키면서 명령줄 인수, 환경 변수를 전달
+- exix( main ( argc, argv) );
+- 실행이 끝나면 반환값을 받아 exit 한다.
+
+## 프로그램 실행 시작
+![image](https://github.com/Kimchaeeuny/System/assets/120534069/f10baf59-2dd2-421e-827c-bb5fa035f586)
+
+## 명령줄 인수/환경 변수
+![image](https://github.com/Kimchaeeuny/System/assets/120534069/0596ed57-eea5-47c5-92e2-2b36579774d0)
